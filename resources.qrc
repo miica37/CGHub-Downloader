@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="plus.png">images/plus.png</file>
+<file alias="download.png">images/download.png</file>
+<file alias="tableview.png">images/tableview.png</file>
+<file alias="localview.png">images/localview.png</file>
+<file alias="thumbnailview.png">images/thumbnailview.png</file>
+<file alias="openprojdir.png">images/openprojdir.png</file>
+<file alias="openprojdir2.png">images/openprojdir2.png</file>
+<file alias="openuserdir.png">images/openuserdir.png</file>
+<file alias="openuserdir2.png">images/openuserdir2.png</file>
+<file alias="project.png">images/project.png</file>
+<file alias="appicon.png">images/appicon.png</file>
+<file alias="no_avatar100.gif">images/no_avatar100.gif</file>
+</qresource>
+</RCC>

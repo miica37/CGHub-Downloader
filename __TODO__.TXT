@@ -1,0 +1,9 @@
+	
+	# LIST OF TODOS
+	# -------------------------------------
+	
+	# check out datviewer2.py's deleteUser method, i think it needs to be cleanedup
+	
+	# see if i can set the listview's item's height to much taller
+	
+	
